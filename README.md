@@ -1,2 +1,1 @@
-# xymxc.github.io
-Official website of XYMXC for tech stuffs
+# h6 Hello
